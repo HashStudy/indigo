@@ -10,6 +10,4 @@ INDIGO_FOOTER_NAV_LINKS:
     url: "https://hashstudy.com/about"
   - title: "Contact"
     url: "https://hashstudy.com/help-center"
-INDIGO_FOOTER_LEGAL_LINKS:
-    - title: "Terms of service"
-      url: "https://hashstudy.com/terms-conditions"
+INDIGO_FOOTER_LEGAL_LINKS: []
